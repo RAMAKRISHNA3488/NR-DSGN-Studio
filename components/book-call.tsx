@@ -96,8 +96,8 @@ export function BookCall() {
             Please select the time that fits you or just
             <br />
             Email us at{" "}
-            <a href="mailto:hello@lander.studio" className="text-foreground underline-animation font-medium">
-              hello@lander.studio
+            <a href="mailto:narasimha9885780378@gmail.com" className="text-foreground underline-animation font-medium">
+              nrdsgn@gmail.com
             </a>
           </p>
 
